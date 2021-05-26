@@ -9,6 +9,15 @@
     margin: 100px;
     font-style: Courier New;
 }
+.flag1{
+    float: left;
+    width: 150px;
+}
+
+.flag{
+    float: right;
+    width: 150px;
+}
 
 .input-search{
     height:50px;
